@@ -5,7 +5,6 @@
     "startCommand": "python app.py"
   },
   "service": {
-    "name": "weight-prediction-flask-app",
-    "rootDirectory": "trial"
+    "name": "weight-prediction-flask-app"
   }
 }
